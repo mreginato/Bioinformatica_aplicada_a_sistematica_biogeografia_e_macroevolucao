@@ -1,5 +1,7 @@
 # Bioinformática aplicada à sistemática, biogeografia e macroevolução
 
+Novembro / 2018
+
 - [12/11 - 1 - Introdução ao R](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/)
 _____________________________________  
 
