@@ -2,7 +2,7 @@
 
 Novembro / 2018
 
-- [12/11 - 1 - Introdução ao R](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/)
+- [12/11 - 1 - Introdução ao R](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/1_Intro.html)
 _____________________________________  
 
 - 13/11 - 2 - Bioinformática aplicada à taxonomia (monographaR)
