@@ -3,78 +3,25 @@
 - [12/11 - 1 - Introdução ao R](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/)
 _____________________________________  
 
-- [13/11 - 2 - Bioinformática aplicada à taxonomia (monographaR)]()
-- [13/11 - 3 - Programas de manipulação de imagens (Gimp, imageJ)]()
-- [13/11 - 4 - Introdução a análises morfométricas]()  
+- 13/11 - 2 - Bioinformática aplicada à taxonomia (monographaR)
+- 13/11 - 3 - Programas de manipulação de imagens (Gimp, imageJ)
+- 13/11 - 4 - Introdução a análises morfométricas  
 
 _____________________________________  
 
-- [14/11 - 5 - 
-
-
+- 14/11 - 5 - Reconstrução de estados ancestrais
+- 14/11 - 6 - Tempo e modo da evolução fenotípica
+- 14/11 - 7 - Análises de mudanças fenotípicas e convergência ("shifts")
+_____________________________________  
   
-  
-  - Reconstrução de estados
-  ancestrais. 
+- 21/11 - 8 - Manipulação de dados de distribuição geográfica e climáticos no R
+_____________________________________  
 
+- 22/11 - 9 - Métodos biogeográficos de padrão e eventos (BioGeoBEARS)
+_____________________________________  
 
-  - Tempo e modo da evolução
-  fenotípica 
+- 23/11 - 10 - Análises de diversificação (BAMM, BiSSE, GeoSSE)
+_____________________________________  
 
-  - Análises de mudanças fenotípicas
-  e convergência ("shifts")
-
-  
- 
- 
-  
-  21/11
-
-
-  
-  
-  - Manipulação de dados de
-  distribuição geográfica e climáticos no R
-
-
-  
- 
- 
-  
-  22/11
-
-
-  
-  
-  - Métodos biogeográficos de padrão
-  e eventos (BioGeoBEARS)
-
-
-  
- 
- 
-  
-  23/11
-
-
-  
-  
-  - Análises de diversificação (BAMM, BiSSE, GeoSSE)
-
-
-  
- 
- 
-  
-  05/12
-
-
-  
-  
-  Projetos (avaliação)
-
-
-  
- 
-
+- 05/12 - Apresentação dos projetos (avaliação)
 
