@@ -1,0 +1,10 @@
+run("Sharpen");
+run("Enhance Contrast...", "saturated=10 update equalize");
+run("8-bit");
+run("Auto Threshold", "method=Yen");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+run("Remove Outliers...", "radius=100 threshold=50 which=Dark");
+run("Auto Crop (guess background color)");
+run("Canvas Size...", "width=5000 height=5000 position=Center");
+run("Size...", "width=500 height=500 constrain average interpolation=Bilinear");
