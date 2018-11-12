@@ -5,9 +5,9 @@ Novembro / 2018
 - [12/11 - 1 - Introdução ao R](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/1_Intro.html)
 _____________________________________  
 
-- 13/11 - 2 - Bioinformática aplicada à taxonomia (monographaR)
-- 13/11 - 3 - Programas de manipulação de imagens (Gimp, imageJ)
-- 13/11 - 4 - Introdução a análises morfométricas  
+- [13/11 - 2 - Bioinformática aplicada à taxonomia (monographaR)](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/2_monographaR.html)
+- [13/11 - 3 - Programas de manipulação de imagens (Gimp, imageJ)](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/3_imageJ.html)
+- [13/11 - 4 - Introdução a análises morfométricas](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/4_morfometria.html)
 
 _____________________________________  
 
