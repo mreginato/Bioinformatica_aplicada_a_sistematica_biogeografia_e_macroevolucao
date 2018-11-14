@@ -11,9 +11,9 @@ _____________________________________
 
 _____________________________________  
 
-- 14/11 - 5 - Reconstrução de estados ancestrais
-- 14/11 - 6 - Tempo e modo da evolução fenotípica
-- 14/11 - 7 - Análises de mudanças fenotípicas e convergência ("shifts")
+- [14/11 - 5 - Reconstrução de estados ancestrais](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/5_Reconstruções.html)
+- [14/11 - 6 - Tempo e modo da evolução fenotípica](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/6_Tempo_and_mode.html)
+- [14/11 - 7 - Análises de mudanças fenotípicas e convergência ("shifts")](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/7_Shifts.html)
 _____________________________________  
   
 - 21/11 - 8 - Manipulação de dados de distribuição geográfica e climáticos no R
