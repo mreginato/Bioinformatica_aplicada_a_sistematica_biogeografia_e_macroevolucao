@@ -19,7 +19,7 @@ _____________________________________
 - [21/11 - 8 - Manipulação de dados de distribuição geográfica e climáticos no R](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/8_GIS.html)
 _____________________________________  
 
-- 22/11 - 9 - Métodos biogeográficos de padrão e eventos (BioGeoBEARS)
+- [22/11 - 9 - Métodos biogeográficos de padrão e eventos (BioGeoBEARS)](http://htmlpreview.github.io/?https://github.com/mreginato/Bioinformatica_aplicada_a_sistematica_biogeografia_e_macroevolucao/blob/master/Roteiros/9_BioGeoBEARS.html)
 _____________________________________  
 
 - 23/11 - 10 - Análises de diversificação (BAMM, BiSSE, GeoSSE)
